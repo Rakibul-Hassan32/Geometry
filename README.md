@@ -1,4 +1,4 @@
-<p> The topics covered here will help you to get a deep understanding about how you can apply and approach Geometrical problems. I tried to cover Geometry as much as i could. As, I love mathematics I will try to cover more of the topics of math. Hope, you will enjoy what I just shared.
+<p style="text-align: justify;"> The topics covered here will help you to get a deep understanding about how you can apply and approach Geometrical problems. I tried to cover Geometry as much as i could. As, I love mathematics I will try to cover more of the topics of math. Hope, you will enjoy what I just shared.
 </p>
 <br>
 <p>The problem links are given below: </p>
